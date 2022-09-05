@@ -13,6 +13,10 @@ html {
     font-family: 'Poppins', sans-serif;
 }
 
+img {
+    max-width: 100%;
+}
+
 #header {
     width: 100%;
     background-color: transparent;
@@ -55,15 +59,8 @@ html {
     font-weight: 900;
 }
 
-#slider .container .row .mit,
-.sanPedroValley,
-.portoDigital {
-    width: 450px;
-    height: 350px;
-}
-
-#slider .container .row .sanPedroValley {
-    padding-left: 40px;
+.homeIntro{
+    text-align: justify;
 }
 
 .price {
